@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 fffffffff
 =======
 good git best! fffffff
+>>>>>>> Stashed changes
+=======
+ffff
 >>>>>>> Stashed changes
